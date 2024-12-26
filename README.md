@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrijanSahay05
 - 👀 I’m open to new learning experiences
-- 🌱 I’m currently learning WebDev 
+- 🌱 I’m currently learning WebDev and MachineLearning
 - 📫 Feel free to reach me on srijan.sahay2k5@gmail.com 
 
 
